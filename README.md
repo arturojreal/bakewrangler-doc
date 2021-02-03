@@ -1,2 +1,2 @@
 # bakewrangler-doc
-Bake Wrangler Documentation
+Documentation for Blender's Bake Wrangler add-on
